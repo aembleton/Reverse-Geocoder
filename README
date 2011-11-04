@@ -1,0 +1,5 @@
+h1. Reverse Geocoder
+
+The long term plan for this project is to allow for simple lookups from lat lon or Geohashes to a place name.
+
+The initial release will focus solely on the United Kingdom and provide locations that are listed under http://en.wikipedia.org/wiki/List_of_United_Kingdom_locations
